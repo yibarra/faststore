@@ -3,7 +3,7 @@
   "description": "Digital commerce toolkit for frontend developers.",
   "repository": "git@github.com:vtex/faststore.git",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "build": "turbo run build --log-order=grouped",
