@@ -25,5 +25,6 @@
   },
   "[typescriptreact]": {
     "editor.defaultFormatter": "biomejs.biome"
-  }
+  },
+  "nxConsole.generateAiAgentRules": true
 }

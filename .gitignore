@@ -110,3 +110,6 @@ packages/core/@generated/persisted-documents.json
 oclif.manifest.json
 
 *storybook.log
+
+.cursor/rules/nx-rules.mdc
+.github/instructions/nx.instructions.md
