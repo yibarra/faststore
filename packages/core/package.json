@@ -1,6 +1,6 @@
 {
   "name": "@yibarra/faststore-core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "repository": "vtex/faststore",
   "browserslist": "supports es6-module and not dead",
@@ -59,6 +59,7 @@
     "@graphql-tools/utils": "^10.2.0",
     "@graphql-typed-document-node/core": "^3.2.0",
     "@parcel/watcher": "^2.4.0",
+    "@soma-vertical-web/foundations": "^0.0.12",
     "@types/react": "^18.2.42",
     "@vtex/client-cms": "^0.2.16",
     "@vtex/client-cp": "0.3.0",

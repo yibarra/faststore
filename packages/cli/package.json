@@ -1,6 +1,6 @@
 {
-  "name": "@faststore/cli",
-  "version": "3.84.1",
+  "name": "@yibarra/faststore-cli",
+  "version": "0.0.1",
   "description": "FastStore CLI",
   "author": "Emerson Laurentino @emersonlaurentino",
   "bin": {
@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "@antfu/ni": "^0.21.12",
-    "@faststore/core": "^3.84.1",
+    "@yibarra/faststore-core": "^0.0.3",
     "@inquirer/prompts": "^5.1.2",
     "@oclif/core": "^1.16.4",
     "@oclif/plugin-help": "^5",

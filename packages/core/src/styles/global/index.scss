@@ -1,9 +1,11 @@
 // Establish a layer order up-front, FS UI base styles have the lowest priority
 @layer base,
   components,
-theme;
+  theme;
 
 // FastStore UI's base styles
+@import "@soma-vertical-web/foundations/src/styles/tokens.scss";
+@import "@soma-vertical-web/foundations/src/typestyle";
 @import "@faststore/ui/src/styles/global.scss";
 
 // Components & Sections styles
