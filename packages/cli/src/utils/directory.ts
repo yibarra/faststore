@@ -23,7 +23,7 @@ export const withBasePath = (basepath: string) => {
   const getCorePackagePath = () => {
     const packageFromNodeModules = path.join(
       'node_modules',
-      '@faststore',
+      '@yibarra/faststore',
       'core'
     )
     const resolvedCwd = path.resolve(process.cwd())

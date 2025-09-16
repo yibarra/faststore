@@ -1,6 +1,6 @@
 {
   "name": "@yibarra/faststore-core",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "license": "MIT",
   "repository": "vtex/faststore",
   "browserslist": "supports es6-module and not dead",

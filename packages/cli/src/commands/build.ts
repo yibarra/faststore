@@ -160,7 +160,7 @@ async function checkDeps(basePath: string): Promise<Array<string>> {
     const invalidPackages: Array<string> = []
 
     Object.entries(allDeps).forEach(([pkg, version]) => {
-      if (/^@faststore\/.+/i.test(pkg) === false) return
+      if (/^@yibarra\/.+/i.test(pkg) === false) return
 
       if (version && /^(http|https|git):.+/.test(version) === true) {
         invalidPackages.push(pkg)
